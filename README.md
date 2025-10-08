@@ -1,5 +1,5 @@
 coluna-da-cidade
-Aplicativo de fofocas inspirado em Sex and the City, feito com React Native e Expo. 🗞️ Coluna da Cidade — App de Fofocas Interativas 💋 Sobre o Projeto
+Aplicativo de fofocas inspirado em Sex and the City, feito com React Native e Expo. 🗞️ Coluna da Cidade — App de Fofocas Interativas 
 
 O Coluna da Cidade é um aplicativo de fofocas inspirado no universo de Sex and the City. A proposta é trazer o clima divertido de uma coluna de fofocas moderna, onde os usuários podem postar histórias anônimas, ler tendências e descobrir curiosidades da cidade.
 
